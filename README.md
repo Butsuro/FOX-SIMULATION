@@ -1,5 +1,4 @@
-# 103-FOX-SIMULATION
-843C
+# FOX-SIMULATION
 The Code in this repository serves 
 as out solution to the Sandy pines wildlife
 centers problems with capturing foxes
